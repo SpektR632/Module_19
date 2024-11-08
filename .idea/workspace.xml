@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69436c19-a9e2-4fc6-831d-b977e4268f3f" name="Changes" comment="Задача &quot;Модели игрового магазина&quot;">
+    <list default="true" id="69436c19-a9e2-4fc6-831d-b977e4268f3f" name="Changes" comment="Задача &quot;Я буду устанавливать все игры!&quot;">
+      <change afterPath="$PROJECT_DIR$/Django/templates/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/templates/basket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/templates/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/templates/registration_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/templates/shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/Django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/Django/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Django/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/task1/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/task1/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/task1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/task1/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730821849862</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Задача &quot;Модели игрового магазина&quot;">
+      <option name="closed" value="true" />
+      <created>1730911757013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730911757013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
