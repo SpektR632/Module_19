@@ -5,22 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69436c19-a9e2-4fc6-831d-b977e4268f3f" name="Changes" comment="Задача &quot;Я буду устанавливать все игры!&quot;">
-      <change afterPath="$PROJECT_DIR$/Django/templates/Home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/templates/basket.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/templates/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/templates/registration_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Django/templates/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/paginator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/paginator/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/paginator/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/paginator/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/paginator/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/paginator/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/paginator/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/paginator/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/task1/migrations/0002_alter_buyer_balance_alter_game_cost_alter_game_size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Module_19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Module_19.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/Django/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django/Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/Django/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Django/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django/task1/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/task1/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django/task1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/task1/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,15 +47,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,12 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1730911757013</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Задача &quot;Я буду устанавливать все игры!&quot;">
+      <option name="closed" value="true" />
+      <created>1731046687880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731046687880</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Задача &quot;Модели игрового магазина&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача &quot;Модели игрового магазина&quot;" />
+    <MESSAGE value="Задача &quot;Я буду устанавливать все игры!&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача &quot;Я буду устанавливать все игры!&quot;" />
   </component>
 </project>

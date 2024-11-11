@@ -16,10 +16,12 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from paginator.views import index
 from task1.views import *
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', index),
     path('registration/', sign_up_by_django),
     path('platform/', home),
     path('platform/cart/', cart),

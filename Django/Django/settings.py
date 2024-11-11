@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'task1.apps.Task1Config'
+    'task1.apps.Task1Config',
+    'paginator.apps.PaginatorConfig'
 ]
 
 MIDDLEWARE = [
